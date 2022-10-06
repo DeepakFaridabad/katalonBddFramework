@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Checkpoint1</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/JWLoginData/New Test Data</source-url>
+   </source-info>
+   <taken-date>2022-10-04T12:12:23.557</taken-date>
+   <column-names>
+      <column-name>Username</column-name>
+      <column-name>Password</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "testuser1061@mailinator.com",
+      "checked": true
+    },
+    {
+      "value": "Testing@1234",
+      "checked": true
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

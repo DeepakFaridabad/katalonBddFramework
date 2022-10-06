@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "ADBECAAD8CF36C0C1F2E2A10378E1ADB",
+  "keywordClasses": [
+    {
+      "name": "com.demo.customKeyword",
+      "keywordMethods": [
+        {
+          "name": "printHello",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

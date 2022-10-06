@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "69D8DB08B54F1EE60E9BEB22FAE345B8",
+  "keywordClasses": [
+    {
+      "name": "com.katalon.logoutSteps",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

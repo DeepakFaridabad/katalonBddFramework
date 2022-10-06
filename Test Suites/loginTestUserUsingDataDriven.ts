@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>loginTestUserUsingDataDriven</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>d993b827-6126-4283-ba7f-59435a91134a</testSuiteGuid>
+   <testCaseLink>
+      <guid>db4a2cac-6a10-4534-8819-386154746e6c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <iterationNameVariable>
+         <defaultValue>''</defaultValue>
+         <description></description>
+         <id>b9f6a973-dca9-4565-af21-67fa421593b7</id>
+         <masked>false</masked>
+         <name>Password</name>
+      </iterationNameVariable>
+      <testCaseId>Test Cases/LoginTestCase/LoginTestJustWines</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>0f696bc1-805d-4d92-a832-95ded7de14e7</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/JWLoginData/New Test Data</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>0f696bc1-805d-4d92-a832-95ded7de14e7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value></value>
+         <variableId>f2a545f3-91c4-43d4-89fe-86a058a55ea0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>0f696bc1-805d-4d92-a832-95ded7de14e7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value></value>
+         <variableId>b9f6a973-dca9-4565-af21-67fa421593b7</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

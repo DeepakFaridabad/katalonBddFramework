@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Year20222023202420252026202720282029_dc5189</name>
+   <tag></tag>
+   <elementGuidId>0d853cbc-85ad-44c5-a3a7-06e863c63fda</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ewayrapid_expiration_yr']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ewayrapid_expiration_yr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>78f6b59d-3a41-43d7-a749-15a1b8fd8674</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>payment[cc_exp_year]</value>
+      <webElementGuid>44137a8b-042f-47a5-b01e-15e919340303</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select select-year</value>
+      <webElementGuid>39f58b79-79e7-4965-b224-6d721cb04c90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>attr: {id: getCode() + '_expiration_yr', 'data-container': getCode() + '-cc-year', 'data-validate': JSON.stringify({required:true})},
+                                           enable: isActive($parents),
+                                           options: getCcYearsValues(),
+                                           optionsValue: 'value',
+                                           optionsText: 'year',
+                                           optionsCaption: $t('Year'),
+                                           value: creditCardExpYear</value>
+      <webElementGuid>e2ce1c47-197b-4044-bf16-56595176c951</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ewayrapid_expiration_yr</value>
+      <webElementGuid>0fe9836a-6528-4207-b5cd-f7f90d7a4998</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-container</name>
+      <type>Main</type>
+      <value>ewayrapid-cc-year</value>
+      <webElementGuid>59372886-ebca-4a85-8413-a349352c0f79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-validate</name>
+      <type>Main</type>
+      <value>{&quot;required&quot;:true}</value>
+      <webElementGuid>233ea91c-c04b-46dc-ac4a-b1e6e8fbd7f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Year20222023202420252026202720282029203020312032
+                        </value>
+      <webElementGuid>e2884745-69f4-4d6e-86fb-2437cae7d715</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ewayrapid_expiration_yr&quot;)</value>
+      <webElementGuid>ea879dcb-c796-4b08-8efe-265cfef00796</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ewayrapid_expiration_yr']</value>
+      <webElementGuid>bfc5a6c8-53ba-42c5-b2bf-2cb651623908</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ewayrapid_cc_type_exp_div']/div/div/div[2]/div/select</value>
+      <webElementGuid>7fdcc011-9ec8-4b02-bcc3-1e95b53486a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Card Expiry:'])[1]/following::select[2]</value>
+      <webElementGuid>6e7e66a7-f2fa-4bed-863d-11d58be67989</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(To use a new credit card number, please add another card)'])[1]/following::select[2]</value>
+      <webElementGuid>c67f12a8-9e0f-4c7f-b418-cba1ee726864</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Card CVN:'])[1]/preceding::select[1]</value>
+      <webElementGuid>b27f53f0-caa3-4be8-a9da-453b3175f95d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='What is this?'])[1]/preceding::select[1]</value>
+      <webElementGuid>bdb845a0-f6ed-41c3-afcd-875d7f1f862f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/select</value>
+      <webElementGuid>64b7ab83-156a-44d2-95fa-200d70e8b765</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'payment[cc_exp_year]' and @id = 'ewayrapid_expiration_yr' and (text() = 'Year20222023202420252026202720282029203020312032
+                        ' or . = 'Year20222023202420252026202720282029203020312032
+                        ')]</value>
+      <webElementGuid>4b189732-e619-4226-9ad0-7504449ec2ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

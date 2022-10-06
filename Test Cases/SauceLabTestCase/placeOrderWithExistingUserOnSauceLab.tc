@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>placeOrderWithExistingUserOnSauceLab</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b94c6099-86e6-45b7-b68c-e814e3c85171</testCaseGuid>
+</TestCaseEntity>

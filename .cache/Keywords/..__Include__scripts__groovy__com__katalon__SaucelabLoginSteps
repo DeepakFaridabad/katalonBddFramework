@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "A6F9746B3513EAA491DDF33EB4CE4990",
+  "keywordClasses": [
+    {
+      "name": "com.katalon.SaucelabLoginSteps",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

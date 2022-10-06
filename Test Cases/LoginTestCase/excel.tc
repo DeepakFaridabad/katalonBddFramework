@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>excel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1abbb12f-087e-4b8b-9695-bc4f0f6cd17b</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>cd7a38fa-aae6-40cd-b07f-2aeb2726bb5f</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/JWLoginData/New Test Data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>cd7a38fa-aae6-40cd-b07f-2aeb2726bb5f</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Username</value>
+      <variableId>8de7d0d8-bd64-492d-bfe2-e7491f963efb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>cd7a38fa-aae6-40cd-b07f-2aeb2726bb5f</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Password</value>
+      <variableId>8bf3e92a-7131-45bf-85ae-f5a4fc66f093</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8de7d0d8-bd64-492d-bfe2-e7491f963efb</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8bf3e92a-7131-45bf-85ae-f5a4fc66f093</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>
